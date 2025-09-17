@@ -3,9 +3,6 @@
 # How to run?
 
 STEPS:
-Clone the repository
-
-https://github.com/entbappy/End-to-End-Book-Recommender-System.git
 
 STEP 01- Create a conda environment after opening the repository
 conda create -n books python=3.7.10 -y
